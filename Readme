@@ -1,0 +1,5 @@
+sample soap project (server and client)
+
+1- Run application server and check wsdl ==> http://localhost:8080/hellows/services/hello?wsdl
+2- Run application client to consume service.
+
